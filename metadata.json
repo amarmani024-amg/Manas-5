@@ -1,0 +1,6 @@
+{
+  "name": "Surprise Mansion",
+  "description": "An interactive mystery mansion crafted for an exceptional mind. Explore five glowing doors, discover surprises, and unlock your grand finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
